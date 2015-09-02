@@ -1,8 +1,4 @@
-package sample.table;
-
-/**
- * Created by рустам on 02.09.2015.
- */
+package simple.table;
 public class Product {
     private String name;
     private double price;
